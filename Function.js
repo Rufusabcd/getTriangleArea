@@ -5,7 +5,6 @@ function getTriangleArea(a, h) {
   else {
     console.log(a*h/2)
   }
-}
 console.log(getTriangleArea(10, 6))
 
 var traingle1Area = getTriangleArea(9, 6)
